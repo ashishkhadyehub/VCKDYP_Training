@@ -10,6 +10,8 @@
                 <asp:TextBox runat="server" ID="txtName" placeholder="Enter Name" CssClass="form-control" ></asp:TextBox>
                 
             </div>
+
+
          <div class="mb-3 mt-3">
                 <label>Contact :</label>
                 <asp:TextBox  runat="server" ID="txtContact" placeholder="Enter Contact" CssClass="form-control" ></asp:TextBox>
